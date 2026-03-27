@@ -8,4 +8,4 @@ These projects do not aim to replace the existing mature solutions, instead, the
 
 如果您有在广州或者深圳的工作机会，欢迎联系！
 
-关键词：大语言模型、多模态、深度学习图像处理、Rust。
+关键词：AI、Rust。
